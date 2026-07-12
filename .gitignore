@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+youtube_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
